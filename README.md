@@ -20,7 +20,8 @@ fraud-detection-analytics/
 
 ## Dataset
 - Source: [Kaggle Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
-- 284,807 transactions | 492 fraud cases | 0.173% fraud rate
+- 284,807 transactions | 473
+ fraud cases | 0.173% fraud rate
 
 ## How to Run
 1. Open `fraud_detection_analytics.ipynb` in Google Colab
